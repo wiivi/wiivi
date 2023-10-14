@@ -4,6 +4,7 @@ Wiivi Röning web-tehtävä
 2. I **will** complete these lessons!
 3. "_Of course_," she whispered. Then, she shouted: "All I need is **a little moxie**!"
 4. If you're thinking to yourself, **_This is unbelievable_**, you'd probably be right.
+ 
 **HEADERS**
 1. #Header one
 ##Header two
@@ -13,6 +14,7 @@ Wiivi Röning web-tehtävä
 ######Header six
 2. ####Colombian Symbolism in _One Hundred Years of Solitude_
 Here's some words about the book _One Hundred Years..._.
+
 **LINKS**
 1. [Search for it.](www.google.com)
 2. [You're **really, really** going to want to see this.](www.dailykitten.com)
