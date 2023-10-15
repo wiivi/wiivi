@@ -1,6 +1,6 @@
 **Wiivi Röning web-tehtävä** 
 >
-**_ITALICS_ AND BOLD**
+**_ITALICS_ AND BOLD** 
 >
 _Answers to Exercises_
 1. Writing in Markdown is _not_ that hard!
